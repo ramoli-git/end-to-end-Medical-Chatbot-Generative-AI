@@ -1,0 +1,20 @@
+sentence-transformers==2.2.2
+# LangChain Core
+langchain
+
+flask
+
+pypdf
+
+# Environment Variable Management
+python-dotenv
+
+pinecone[grpc]
+langchain-pinecone
+langchain-community
+langchain-experimental
+
+# OpenAI Integration
+langchain-openai
+
+-e .
